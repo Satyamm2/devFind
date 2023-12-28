@@ -1,13 +1,13 @@
 {
-  "name": "Your Name",
-  "location": "Your Location",
+  "name": "Satyam Mishra",
+  "location": "MP India",
   "bio": "Your Bio should be 20-30 words not more then that",
-  "avatar": "https://github.com/<your-github-username>.png",
-  "portfolio": "Your Portfolio URL or Github URL",
-  "skills": ["Your Skill 1", "Your Skill 2", "..."],
+  "avatar": "https://github.com/Satyamm2.png",
+  "portfolio": "https://github.com/Satyamm2",
+  "skills": ["ReactJs", "Javascript", "HTML", "CSS"],
   "social": {
-    "GitHub": "https://github.com/<github-username>",
+    "GitHub": "https://github.com/Satyamm2",
     "Twitter": "https://twitter.com/<twitter-username>",
-    "LinkedIn": "https://www.linkedin.com/in/<linkedin-username>"
+    "LinkedIn": "https://www.linkedin.com/in/satyam-mishra-532780253"
   }
 }
